@@ -157,4 +157,3 @@ Choose a license for your repository, such as the MIT License, before distributi
 
 ---
 
-**Built with Flutter ❤️**
